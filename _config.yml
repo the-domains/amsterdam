@@ -1,6 +1,6 @@
 name: amsterdam
 favicon: null
-layout_spectrum: 0.80608
+layout_spectrum: 0.74724
 typography_spectrum: 0.62495
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#251e14'
-    - '#a2b5c4'
-    - '#6f8fb6'
-    - '#494431'
-    - '#61634e'
+    - '#b6b900'
+    - '#7b008f'
+    - '#00b7b3'
+    - '#ffffff'
+    - '#000000'
   brandStrength: 1
   lightness: 0.4375
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
